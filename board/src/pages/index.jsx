@@ -13,6 +13,13 @@ export default function Home() {
       </Head>
       <main className={`${styles.main}`}>
         <Line />
+        <Line black />
+        <Line />
+        <Line black />
+        <Line />
+        <Line black />
+        <Line />
+        <Line black />
       </main>
     </>
   );
